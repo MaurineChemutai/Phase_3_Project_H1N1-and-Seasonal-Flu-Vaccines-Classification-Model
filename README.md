@@ -48,9 +48,8 @@ Vaccination is an important public health tool, but many people do not get vacci
 EDA was performed to understand patterns in the data and relationships with vaccination.
 
 ### 📈 EDA Visualization
-![EDA Visualization](images/eda_plot.png)
 <p align="center">
-  <img src="images/feature_importance.png" width="600">
+  <img src="images/eda_plot.png" width="600">
 </p>
 
 Key observations:
@@ -87,8 +86,9 @@ Key observations:
 | Logistic Regression (Tuned) | **0.821** |
 
 ### 📉 Model Comparison
-![Model Performance](images/model_performance.png)
-
+<p align="center">
+  <img src="images/model_performance.png" width="600">
+</p>
 👉 Logistic Regression performed best overall.
 
 ---
@@ -104,7 +104,10 @@ The most important factors influencing vaccine uptake:
 - Perceived risk of H1N1  
 
 ### 📊 Feature Importance Visualization
-![Feature Importance](images/feature_importance.png)
+
+<p align="center">
+  <img src="images/feature_importance.png" width="600">
+</p>
 
 ---
 
