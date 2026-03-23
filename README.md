@@ -106,7 +106,7 @@ The most important factors influencing vaccine uptake:
 ### 📊 Feature Importance Visualization
 
 <p align="center">
-  <img src="images/feature_importance.png" width="600">
+  <img src="images/feature_importance.png" width="800">
 </p>
 
 ---
