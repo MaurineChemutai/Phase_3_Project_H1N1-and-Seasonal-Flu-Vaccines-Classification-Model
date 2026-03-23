@@ -166,3 +166,17 @@ Based on the model results and feature importance analysis, the following recomm
 ---
 
 ## 📁 Project Structure
+Phase_3_Project_H1N1-and-Seasonal-Flu-Vaccines-Classification-Model/
+│
+├── data/
+│ ├── H1N1_Flu_Vaccines.csv/ # Original datasets
+│
+├── images/ # Plots and visualizations
+│ ├── feature_importance.png
+│ ├── eda_plot.png
+│ └── Model_Performance.png
+│
+├── notebooks/ # Jupyter notebooks
+│ └── index.ipynb
+│
+├── README.md # Project documentation
